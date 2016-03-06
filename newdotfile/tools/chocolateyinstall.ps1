@@ -12,4 +12,3 @@ Install-ChocolateyZipPackage $packageName $url $toolsDir
 . "$contextMenuScriptDir\install-new-dot-file.ps1"
 
 Install-ChocolateyPath $newdotfileDir
-Install-New-Dot-File
