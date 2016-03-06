@@ -4,7 +4,7 @@
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>newdotfile</id>
-    <title>newdotfile (Install)</title>
+    <title>newdotfile</title>
     <version>1.0.0</version>
     <authors>Tim Zenner</authors>
     <owners>Tim Zenner</owners>
@@ -12,9 +12,9 @@
     <description>newdotfile is a small utility to easily create new .dotfiles on Windows
     </description>
     <projectUrl>http://github.com/epidemicz/newdotfile</projectUrl>
-    <packageSourceUrl></packageSourceUrl>
-    <!--<projectSourceUrl></projectSourceUrl>
-    <docsUrl></docsUrl>
+    <packageSourceUrl>https://github.com/epidemicz/choco-packages</packageSourceUrl>
+    <projectSourceUrl>http://github.com/epidemicz/newdotfile</projectSourceUrl>
+    <!--<docsUrl></docsUrl>
     <mailingListUrl></mailingListUrl>
     <bugTrackerUrl></bugTrackerUrl>-->
     <tags>newdotfile create dotfile dotfiles</tags>
